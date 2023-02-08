@@ -1,3 +1,5 @@
+Projekt im Semesterprojekt_WWWSHOP-Frontend Ordner öffnen
+
     Sie müssen sich ein Konzept für Ihren Webshop überlegt haben (5 Punkte)
         Kategorien min. 3
         Produkte min. 2 Produkte pro Kategorie
